@@ -19,4 +19,4 @@ This sample, WGAN-TensorFlow2, implements a full Tensorflow2-based WGAN for imag
      ```
 ## Performance
 
-![WGAN-demo](https://yerfor.github.io/2020/02/06/gan-01/WGAN-demo.gif)
+![WGAN-demo](https://yerfor.github.io/2020/02/06/gan-01/10000.png)
