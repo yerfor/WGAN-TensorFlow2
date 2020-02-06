@@ -20,4 +20,5 @@ This sample, WGAN-TensorFlow2, implements a full Tensorflow2-based WGAN for imag
 ## Performance
 1. A visualization of Training Process is available [here](https://yerfor.github.io/2020/02/06/gan-01/WGAN-demo.gif).
 2. After 10000 iterations:
+
 ![WGAN-demo](https://yerfor.github.io/2020/02/06/gan-01/10000.png)
